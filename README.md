@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sandeep Kumar Thakur  
+## 👋 Hi there! I'm Sandeep Kumar Thakur  
 Welcome to my GitHub profile! I'm a passionate front-end developer and web designer who loves crafting beautiful and interactive user interfaces.  
 
 ## 🌟 About Me  
