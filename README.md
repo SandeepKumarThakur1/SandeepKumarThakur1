@@ -8,4 +8,4 @@ Welcome to my GitHub profile! I'm a passionate front-end developer and web desig
 - 📫 **How to reach me:**  
   - Email: [sandeekumarthakur9888@gmail.com](mailto:sandeekumarthakur9888@gmail.com)  
   - GitHub: [https://github.com/SandeepKumarThakur1](https://github.com/SandeepKumarThakur1)
-  - LinkedIn: [https://www.linkedin.com/in/sandeep-kumar-frontend](https://www.linkedin.com/in/sandeep-kumar-frontend)
+  - LinkedIn: [https://www.linkedin.com/in/sandeep-kumar-frontend](https://www.linkedin.com/in/SandeepKumarThakur1)
