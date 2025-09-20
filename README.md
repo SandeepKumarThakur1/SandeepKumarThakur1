@@ -49,7 +49,7 @@ I specialize in building **responsive, user-friendly, and visually engaging webs
 ## 📫 Connect With Me  
 - ✉️ **Email:** [sandeepkumarthakur9888@gmail.com](mailto:sandeepkumarthakur9888@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-frontend](https://www.linkedin.com/in/sandeep-kumar-frontend)  
-- 🌐 **Portfolio/GitHub:** [github.com/SandeepKumarThakur1](https://github.com/SandeepKumarThakur1)  
+- 🌐 **GitHub:** [github.com/SandeepKumarThakur1](https://github.com/SandeepKumarThakur1)  
 
 ---
 
