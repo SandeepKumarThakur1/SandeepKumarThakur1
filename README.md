@@ -6,7 +6,7 @@ I specialize in building **responsive, user-friendly, and visually engaging webs
 ---
 
 ## 🌟 About Me  
-- 💻 **Experience:** 1.5+ years in **Frontend Development & UI/UX Design**  
+- 💻 **Experience:** 2+ years in **Frontend Development & UI/UX Design**  
 - 📚 **Currently Learning:** Advanced React patterns, performance optimization, and headless eCommerce with Shopify  
 - 🤝 **Open To:** Freelance projects, collaborations, and exciting frontend opportunities  
 
