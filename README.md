@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandeep Kumar Thakur  
 
-🚀 **Front-End Developer | Web Designer | 1.5+ Years of Experience**  
+🚀 **Front-End Developer | Web Designer | 2+ Years of Experience**  
 I specialize in building **responsive, user-friendly, and visually engaging websites** using modern frontend technologies. With a strong eye for design and clean coding practices, I focus on delivering seamless digital experiences that bring ideas to life.  
 
 ---
