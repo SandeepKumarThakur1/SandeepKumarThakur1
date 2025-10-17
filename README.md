@@ -32,14 +32,8 @@ I specialize in building **responsive, user-friendly, and visually engaging webs
 
 ## 🔥 Featured Projects  
 
-- **[LayerEx (Next.js Project)](https://layerex.com/)**  
-  Built responsive layouts, integrated dark/light mode, and designed dashboards.  
-
 - **[Asvayuk Tech Website](https://asvayuktech.com/)**  
-  Developed the frontend using React with a focus on responsiveness.  
-
-- **[JackdStore (Shopify Project)](https://jackdstore.com/)**  
-  Customized store design, product pages, and checkout experience.  
+  Developed the frontend using React with a focus on responsiveness.   
 
 - **[Lucky Store (React eCommerce)](https://bespoke-capybara-4fe617.netlify.app/)**  
   Built using React, Tailwind, Context API & APIs for a smooth shopping experience.  
@@ -47,7 +41,7 @@ I specialize in building **responsive, user-friendly, and visually engaging webs
 ---
 
 ## 📫 Connect With Me  
-- ✉️ **Email:** [sandeepkumarthakur9888@gmail.com](mailto:sandeepkumarthakur9888@gmail.com)  
+- ✉️ **Email:** [sktdesignsofficial@gmail.com](mailto:sktdesignsofficial@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-frontend](https://www.linkedin.com/in/sandeep-kumar-frontend)  
 - 🌐 **GitHub:** [github.com/SandeepKumarThakur1](https://github.com/SandeepKumarThakur1)  
 
