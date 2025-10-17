@@ -42,7 +42,7 @@ I specialize in building **responsive, user-friendly, and visually engaging webs
 
 ## 📫 Connect With Me  
 - ✉️ **Email:** [sktdesignsofficial@gmail.com](mailto:sktdesignsofficial@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-frontend](https://www.linkedin.com/in/sandeep-kumar-frontend)  
+- 💼 **LinkedIn:** [linkedin.com/in/sandeepkumarthakur1](https://www.linkedin.com/in/sandeepkumarthakur1)  
 - 🌐 **GitHub:** [github.com/SandeepKumarThakur1](https://github.com/SandeepKumarThakur1)  
 
 ---
