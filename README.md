@@ -1,134 +1,68 @@
-<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<!--
+  Sandeep Kumar Thakur · GitHub profile
+  Brand: Electric Blue #2442FF · Ink #111111 · Cream #F6F5F0 · Lavender #E4E8FF
+  Type:  Bricolage Grotesque (headings) · Manrope (body), embedded in every SVG in /assets
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sandeep%20Kumar%20Thakur&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Designs%20it.%20Codes%20it.%20Ships%20it.&descAlignY=58&descSize=18&animation=fadeIn" />
+  <a href="https://sktdesigns.netlify.app"><img src="./assets/hero.svg" width="100%" alt="Sandeep Kumar Thakur, Frontend Developer and Web Designer. 2.5+ years, 10+ live client websites, 4 platforms." /></a>
 </p>
+
 <p align="center">
-  <a href="https://sktdesigns.netlify.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Frontend+Developer+%2B+Web+Designer+%E2%9C%A6;Figma+%E2%86%92+Pixel-perfect+code%2C+zero+hand-off+loss;React+%C2%B7+Next.js+%C2%B7+Shopify+%C2%B7+WordPress;10%2B+live+client+websites+and+counting+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="./assets/marquee.svg" width="100%" alt="React, Next.js, Tailwind, Shopify, WordPress, WooCommerce, Figma, UI/UX, SEO" />
 </p>
+
 <p align="center">
-  <a href="https://sktdesigns.netlify.app"><img src="https://img.shields.io/badge/Portfolio-sktdesigns.netlify.app-7c3aed?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sandeepkumarthakur1"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sktdesignsofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="./assets/experience.svg" width="100%" alt="Experience: Web Developer Executive at Nxuniq (Apr 2026 to present), Junior Web Designer at Asvayuk Technologies (Feb 2024 to Mar 2026), Teaching Faculty at SCI Computer Education (Sep 2022 to Dec 2023)" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandeepKumarThakur1&label=Visitors%20who%20scrolled%20this%20far&color=7c3aed&style=flat" />
+  <img src="./assets/toolkit.svg" width="100%" alt="Toolkit: React, Next.js, JavaScript, HTML5, CSS3, Tailwind, Bootstrap, Redux, WordPress, Shopify, WooCommerce, Wix, Figma, UI/UX, Photoshop, Git, SEO" />
 </p>
----
- 
-### 🧩 `whoami`
- 
-```js
-const sandeep = {
-  role:        "Frontend Developer & Web Designer",
-  basedIn:     "Bengaluru, India 🇮🇳",
-  currently:   "Web Developer Executive @ Nxuniq",
-  experience:  "2.5+ years shipping production websites",
-  superpower:  "Design + development in one brain — nothing gets lost in hand-off",
-  shipped:     "10+ live client sites across healthcare, finance, e-commerce & sports",
-  learning:    ["Advanced React patterns", "Web performance", "Headless Shopify"],
-  openTo:      ["Freelance", "Collaborations", "Frontend roles"],
-  speaks:      ["English", "Hindi", "Fluent CSS"],
-};
-```
- 
----
- 
-### 🛤️ The Journey So Far
- 
-```diff
-+ 2026 → now   ▸ Web Developer Executive · Nxuniq (Bengaluru)
-+                WordPress/WooCommerce builds · CRM lead integrations · speed & SEO tuning
- 
-+ 2024 → 2026  ▸ Junior Web Designer · Asvayuk Technologies
-+                React & Bootstrap sites · Shopify · WooCommerce · Wix · UI/UX polish
- 
-+ 2022 → 2023  ▸ Teaching Faculty · SCI Computer Education
-+                Taught programming fundamentals — turns out explaining code makes you write better code
- 
-! 2022         ▸ Diploma in Web Designing & Development + 6-month Frontend training
-```
- 
----
- 
-### 🧰 The Toolbox
- 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>🎨 Design</b></td>
-    <td align="center" width="25%"><b>⚛️ Build</b></td>
-    <td align="center" width="25%"><b>🛒 CMS & Commerce</b></td>
-    <td align="center" width="25%"><b>⚙️ Workflow</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" /><br/>
-      <sub>UI/UX · Wireframes · Prototyping · Canva</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux&perline=4&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-      <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" height="48"/><br/>
-      <sub>WooCommerce · Wix</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br/>
-      <sub>SEO · Speed optimisation · CRM integration</sub>
-    </td>
-  </tr>
-</table>
----
- 
-### 🌐 Live on the Internet (Real Clients, Real Traffic)
- 
-<table align="center">
-  <tr>
-    <td align="center">🏥<br/><a href="https://asterclinic.ae"><b>Aster Clinic</b></a><br/><sub>Healthcare</sub></td>
-    <td align="center">💼<br/><a href="https://asvayuktech.com"><b>Asvayuk Tech</b></a><br/><sub>IT Services · React</sub></td>
-    <td align="center">🛍️<br/><a href="https://pumpdstore.com"><b>Pumpd Store</b></a><br/><sub>E-commerce</sub></td>
-    <td align="center">📈<br/><a href="https://hkw-wealth.com"><b>HKW Wealth</b></a><br/><sub>Finance</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🏢<br/><a href="https://cbsouthindia.com"><b>CB South India</b></a><br/><sub>Business</sub></td>
-    <td align="center">🏗️<br/><a href="https://cbmouryaconcepts.com"><b>CB Mourya Concepts</b></a><br/><sub>Business</sub></td>
-    <td align="center">🎾<br/><a href="https://padelproindia.com"><b>Padel Pro India</b></a><br/><sub>Sports</sub></td>
-    <td align="center">🎾<br/><a href="https://padelpro.my"><b>Padel Pro Malaysia</b></a><br/><sub>Sports</sub></td>
-  </tr>
-</table>
+
 <p align="center">
-  🧪 <b>Side quest:</b> <a href="https://bespoke-capybara-4fe617.netlify.app/">Lucky Store</a> — a React e-commerce playground built with Tailwind, Context API & live product APIs.
+  <img src="./assets/work-head.svg" width="100%" alt="Selected work: live websites, real clients" />
 </p>
----
- 
-### 📊 Commit Pulse
- 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SandeepKumarThakur1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepKumarThakur1&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://asterclinic.ae"><img src="./assets/work-01.svg" width="32%" alt="Aster Clinic" /></a>
+  <a href="https://asvayuktech.com"><img src="./assets/work-02.svg" width="32%" alt="Asvayuk Tech" /></a>
+  <a href="https://pumpdstore.com"><img src="./assets/work-03.svg" width="32%" alt="Pumpd Store" /></a>
+  <a href="https://hkw-wealth.com"><img src="./assets/work-04.svg" width="32%" alt="HKW Wealth" /></a>
+  <a href="https://cbsouthindia.com"><img src="./assets/work-05.svg" width="32%" alt="CB South India" /></a>
+  <a href="https://cbmouryaconcepts.com"><img src="./assets/work-06.svg" width="32%" alt="CB Mourya Concepts" /></a>
+  <a href="https://padelproindia.com"><img src="./assets/work-07.svg" width="32%" alt="Padel Pro India" /></a>
+  <a href="https://padelpro.my"><img src="./assets/work-08.svg" width="32%" alt="Padel Pro Malaysia" /></a>
+  <a href="https://www.linkedin.com/in/sandeepkumarthakur1"><img src="./assets/work-09.svg" width="32%" alt="See more on LinkedIn" /></a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepKumarThakur1&theme=tokyonight&hide_border=true" />
+  <img src="./assets/education.svg" width="100%" alt="Education: B.A. at IGNOU (pursuing), Diploma in Web Designing and Development, Industrial Training in Frontend" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepKumarThakur1&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="./assets/stats-head.svg" width="100%" alt="GitHub pulse" />
 </p>
----
- 
-### 💬 My Build Philosophy
- 
-> **Fast** beats fancy. **Responsive** isn't optional. **Pixel-perfect** is the baseline, not the goal.  
-> The goal is a website people *love* using — and clients love showing off.
- 
----
- 
+
 <p align="center">
-  <b>Have an idea that deserves a beautiful home on the web?</b><br/>
-  <a href="mailto:sktdesignsofficial@gmail.com">Let's build it together →</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeepKumarThakur1&show_icons=true&hide_border=true&border_radius=22&bg_color=F6F5F0&title_color=2442FF&text_color=111111&icon_color=2442FF&ring_color=2442FF&hide_title=false&custom_title=Commit%20stats" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepKumarThakur1&layout=compact&hide_border=true&border_radius=22&bg_color=111111&title_color=FFFFFF&text_color=E4E8FF&custom_title=Most%20used" height="170" alt="Top languages" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepKumarThakur1&bg_color=2442FF&color=FFFFFF&line=FFFFFF&point=111111&area=true&area_color=E4E8FF&hide_border=true&radius=22&custom_title=Contribution%20rhythm" width="100%" alt="Contribution graph" />
 </p>
- 
+
+<p align="center">
+  <a href="mailto:sktdesignsofficial@gmail.com"><img src="./assets/cta.svg" width="100%" alt="Let's work together. I design and build websites people love." /></a>
+</p>
+
+<p align="center">
+  <a href="https://sktdesigns.netlify.app"><img src="./assets/btn-portfolio.svg" width="32%" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sandeepkumarthakur1"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a>
+  <a href="mailto:sktdesignsofficial@gmail.com"><img src="./assets/btn-email.svg" width="32%" alt="Email me" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Sandeep Kumar Thakur" />
+</p>
