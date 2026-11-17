@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <a href="https://sktdesigns.netlify.app"><img src="./assets/hero.svg" width="100%" alt="Sandeep Kumar Thakur, Frontend Developer and Web Designer. 2.5+ years, 10+ live client websites, 4 platforms." /></a>
+  <a href="https://sktdesign.netlify.app"><img src="./assets/hero.svg" width="100%" alt="Sandeep Kumar Thakur, Frontend Developer and Web Designer. 2.5+ years, 10+ live client websites, 4 platforms." /></a>
 </p>
 
 <p align="center">
