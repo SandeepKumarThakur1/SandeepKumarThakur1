@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sktdesigns.netlify.app"><img src="./assets/btn-portfolio.svg" width="32%" alt="Portfolio" /></a>
+  <a href="https://sktdesign.netlify.app"><img src="./assets/btn-portfolio.svg" width="32%" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sandeepkumarthakur1"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a>
   <a href="mailto:sktdesignsofficial@gmail.com"><img src="./assets/btn-email.svg" width="32%" alt="Email me" /></a>
 </p>
